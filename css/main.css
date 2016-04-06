@@ -1,14 +1,21 @@
 body {
   background-color: pink;
+
 }
 
 
 h1 {
   color: grey;
+  font-size: 40px;
+  margin-left: 60px;
+
 }
 .answer {
   color: darkgrey;
-  font-size: 20px;
+  font-size: 40px;
   font-style: oblique;
 
+}
+.calculate {
+  
 }
