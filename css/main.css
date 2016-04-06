@@ -1,5 +1,6 @@
 body {
   background-color: pink;
+  border-width: 80px 50px 0 50px;
 
 }
 
@@ -16,6 +17,11 @@ h1 {
   font-style: oblique;
 
 }
-.calculate {
-  
+
+input {
+  background-color: lightgreen;
+  border: 5px solid yellow;
+}
+.text{
+  color: red;
 }
